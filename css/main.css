@@ -323,8 +323,8 @@ textarea {
   }
   .hamburger {
     position: fixed !important;
-    right: 15px !important;
-    top: 15px !important;
+    right: 25px !important;
+    top: 25px !important;
     padding-top: 10px;
     padding-right: 10px;
     display: unset;
@@ -337,7 +337,6 @@ textarea {
   }
   .top-nav ul {
     display: block;
-    margin-top: 300px;
     transform: translateX(160%);
   }
   .top-nav ul li {
