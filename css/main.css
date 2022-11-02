@@ -337,7 +337,7 @@ textarea {
   }
   .top-nav ul {
     display: block;
-    transform: translateX(160%);
+    transform: translateX(200%);
   }
   .top-nav ul li {
     margin: 5rem;
